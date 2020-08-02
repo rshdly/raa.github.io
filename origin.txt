@@ -1,0 +1,108 @@
+Uri: http://www.yashgaur.tk/
+File Name: c:\Downloaded Web Sites\www.yashgaur.tk\index.htm
+Content Type: text/html
+
+Uri: http://www.yashgaur.tk/css/style.css
+File Name: c:\Downloaded Web Sites\www.yashgaur.tk\css\style.css
+Content Type: text/css
+
+Uri: http://www.yashgaur.tk/css/responsive.css
+File Name: c:\Downloaded Web Sites\www.yashgaur.tk\css\responsive.css
+Content Type: text/css
+
+Uri: http://www.yashgaur.tk/images/profile/user.svg
+File Name: c:\Downloaded Web Sites\www.yashgaur.tk\images\profile\user.svg
+Content Type: image/svg+xml
+
+Uri: http://www.yashgaur.tk/coming_soon.html
+File Name: c:\Downloaded Web Sites\www.yashgaur.tk\coming_soon.html
+Content Type: text/html
+
+Uri: http://www.yashgaur.tk/images/profile/user1.svg
+File Name: c:\Downloaded Web Sites\www.yashgaur.tk\images\profile\user1.svg
+Content Type: image/svg+xml
+
+Uri: http://www.yashgaur.tk/images/icons/uiux_design.png
+File Name: c:\Downloaded Web Sites\www.yashgaur.tk\images\icons\uiux_design.png
+Content Type: image/png
+
+Uri: http://www.yashgaur.tk/images/icons/web_development.png
+File Name: c:\Downloaded Web Sites\www.yashgaur.tk\images\icons\web_development.png
+Content Type: image/png
+
+Uri: http://www.yashgaur.tk/images/icons/software_development.png
+File Name: c:\Downloaded Web Sites\www.yashgaur.tk\images\icons\software_development.png
+Content Type: image/png
+
+Uri: http://www.yashgaur.tk/images/icons/graphic_design.png
+File Name: c:\Downloaded Web Sites\www.yashgaur.tk\images\icons\graphic_design.png
+Content Type: image/png
+
+Uri: http://www.yashgaur.tk/images/icons/website_design.png
+File Name: c:\Downloaded Web Sites\www.yashgaur.tk\images\icons\website_design.png
+Content Type: image/png
+
+Uri: http://www.yashgaur.tk/images/icons/freelance.png
+File Name: c:\Downloaded Web Sites\www.yashgaur.tk\images\icons\freelance.png
+Content Type: image/png
+
+Uri: http://www.yashgaur.tk/images/projects/portfolio.PNG
+File Name: c:\Downloaded Web Sites\www.yashgaur.tk\images\projects\portfolio.PNG
+Content Type: image/png
+
+Uri: http://www.yashgaur.tk/images/projects/bank.jpg
+File Name: c:\Downloaded Web Sites\www.yashgaur.tk\images\projects\bank.jpg
+Content Type: image/jpeg
+
+Uri: http://www.yashgaur.tk/images/projects/voiceassistant.jpg
+File Name: c:\Downloaded Web Sites\www.yashgaur.tk\images\projects\voiceassistant.jpg
+Content Type: image/jpeg
+
+Uri: http://www.yashgaur.tk/images/projects/brickbreaker.jpg
+File Name: c:\Downloaded Web Sites\www.yashgaur.tk\images\projects\brickbreaker.jpg
+Content Type: image/jpeg
+
+Uri: http://www.yashgaur.tk/images/projects/smart_watch.PNG
+File Name: c:\Downloaded Web Sites\www.yashgaur.tk\images\projects\smart_watch.PNG
+Content Type: image/png
+
+Uri: http://www.yashgaur.tk/images/profile/user2.svg
+File Name: c:\Downloaded Web Sites\www.yashgaur.tk\images\profile\user2.svg
+Content Type: image/svg+xml
+
+Uri: http://www.yashgaur.tk/js/main.js
+File Name: c:\Downloaded Web Sites\www.yashgaur.tk\js\main.js
+Content Type: application/javascript
+
+Uri: http://www.yashgaur.tk/js/animated.headline.js
+File Name: c:\Downloaded Web Sites\www.yashgaur.tk\js\animated.headline.js
+Content Type: application/javascript
+
+Uri: http://www.yashgaur.tk/images/icons/dots.svg
+File Name: c:\Downloaded Web Sites\www.yashgaur.tk\images\icons\dots.svg
+Content Type: image/svg+xml
+
+Uri: http://www.yashgaur.tk/images/background/background.png
+File Name: c:\Downloaded Web Sites\www.yashgaur.tk\images\background\background.png
+Content Type: image/png
+
+Uri: http://www.yashgaur.tk/images/gif/car.gif
+File Name: c:\Downloaded Web Sites\www.yashgaur.tk\images\gif\car.gif
+Content Type: image/gif
+
+Uri: http://www.yashgaur.tk/images/gif/cycle.gif
+File Name: c:\Downloaded Web Sites\www.yashgaur.tk\images\gif\cycle.gif
+Content Type: image/gif
+
+Uri: http://www.yashgaur.tk/css/coming_soon.css
+File Name: c:\Downloaded Web Sites\www.yashgaur.tk\css\coming_soon.css
+Content Type: text/css
+
+Uri: http://www.yashgaur.tk/js/coming_soon.js
+File Name: c:\Downloaded Web Sites\www.yashgaur.tk\js\coming_soon.js
+Content Type: application/javascript
+
+Uri: http://www.yashgaur.tk/images/background/coming_soon.jpg
+File Name: c:\Downloaded Web Sites\www.yashgaur.tk\images\background\coming_soon.jpg
+Content Type: image/jpeg
+
